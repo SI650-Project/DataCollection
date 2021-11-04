@@ -1,4 +1,5 @@
 # Semantic segmentation
+
 # Image classification
 # Object detection
 # Object Recognition
