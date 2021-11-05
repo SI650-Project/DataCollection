@@ -41,7 +41,7 @@ Notice that rating for the retrival results from these resourcesare done in the 
 And the aggregate are done as follows:
 0.3\*data from google scholar + 0.3\*data from semantic scholar + 0.4*data from paperswithcodesß
 ### test_set.csv
-* area
+* areaß
 * rank_gs: the rank of the paper in google scholar, if is 401, means the paper is not in google scholar retreived result for top 400
 * rank_ss: the rank of the paper in semantic scholar, if is 201, means the paper is not in semantic scholar retreived result for top 200
 * rank_pc: the rank of the paper in paperswithcodes, if is 201, means the paper is not in paperswithcodes retreived result for top 200
