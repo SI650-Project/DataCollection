@@ -1917,7 +1917,7 @@ Denoising,201.0,research on ship-radiated noise denoising using secondary variat
 Denoising,115.0,performance study of different denoising methods for ecg signals,3.0,201.0,1.0,201.0,1.0,1.5999999999999999,175.2,381
 Denoising,201.0,"a new underwater acoustic signal denoising technique based on ceemdan, mutual information, permutation entropy, and wavelet threshold denoising",1.0,201.0,1.0,115.0,3.0,1.5999999999999999,175.2,382
 Denoising,116.0,a nonlinear bayesian filtering framework for ecg denoising,3.0,201.0,1.0,201.0,1.0,1.5999999999999999,175.5,383
-Denoising,201.0,a review of denoising medical images using machine learning  approaches,1.0,201.0,1.0,116.0,3.0,1.5999999999999999,175.5,384
+Denoising,201.0,a review of denoising medical images using machine learning approaches,1.0,201.0,1.0,116.0,3.0,1.5999999999999999,175.5,384
 Denoising,201.0,medical image denoising using convolutional neural network: a residual learning approach,1.0,201.0,1.0,117.0,3.0,1.5999999999999999,175.79999999999998,385
 Denoising,117.0,deep boosting for image denoising,3.0,201.0,1.0,201.0,1.0,1.5999999999999999,175.8,386
 Denoising,201.0,off-the-grid line spectrum denoising and estimation with multiple measurement vectors,1.0,201.0,1.0,118.0,3.0,1.5999999999999999,176.1,387
